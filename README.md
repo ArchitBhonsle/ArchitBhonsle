@@ -8,11 +8,6 @@
        src="https://github-readme-stats.vercel.app/api/top-langs?username=ArchitBhonsle&layout=compact&hide=html&theme=gotham" 
        alt="ArchitBhonsle languages" />
 </p>
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=ArchitBhonsle&show_icons=true&theme=gotham" 
-       alt="ArchitBhonsle statistics" />
-</p>
 
 ## Certifications
 
